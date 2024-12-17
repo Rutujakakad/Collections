@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\bin\Debug\net6.0\CollectionPractise.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\bin\Debug\net6.0\CollectionPractise.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\bin\Debug\net6.0\CollectionPractise.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\bin\Debug\net6.0\CollectionPractise.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\bin\Debug\net6.0\CollectionPractise.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\CollectionPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\CollectionPractise.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\CollectionPractise.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\CollectionPractise.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\CollectionPractise.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\refint\CollectionPractise.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\CollectionPractise.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\CollectionPractise.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\Generics\CollectionPractise\CollectionPractise\obj\Debug\net6.0\ref\CollectionPractise.dll
